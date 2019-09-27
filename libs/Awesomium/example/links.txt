@@ -1,0 +1,11 @@
+(RU) About Awesomium
+https://habr.com/ru/post/183826/
+
+Awesomium browser class
+https://gist.github.com/pabloko/8d23d465b7ecba55a2ec
+
+Awesomium projects
+https://gist.github.com/khrona
+
+HTML UL renderer for CryEgine 3
+https://github.com/paralin/AwesomiumCE3
